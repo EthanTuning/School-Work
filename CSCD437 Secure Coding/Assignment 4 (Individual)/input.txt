@@ -1,0 +1,69 @@
+a
+123121234
+a
+123-12-1234
+a
+qwklefj
+a
+123 12 1234
+b
+(123)1231234
+b
+(123)-123-1234
+b
+1231231234
+c
+etuning5@hotmail.com
+c
+asdljkfsad
+d
+Ethan Tuning
+d
+Ethan JE Tuning
+d
+3
+e
+08-22-1995
+e
+08/22/1995
+e
+08221995
+e
+3
+f
+910 E Holyoke Ave
+f
+204 fourth st
+f
+12 12 12 12
+g
+Spokane WA 99208
+h
+23:12:02
+h
+13:12:00000
+h
+f
+i
+$5,121,124.03
+i
+$4.03
+i
+5
+j
+http://google.com
+j
+https://google.com
+j
+fasdf
+k
+dW3k!8dJka
+k
+thisisnotapassword
+l
+hello
+l
+function
+l
+kjion
+q

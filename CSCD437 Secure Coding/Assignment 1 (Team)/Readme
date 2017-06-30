@@ -1,0 +1,11 @@
+Produce a self-replicating program (running the program produces as output the original source code).  The output should compile and run and produce the identical output once again.
+
+You must utilize one of the following languages: C, C++, Java, C#.  The fact is, Python and Ruby make this task trivial -- if you know those languages, use them as a starting point!
+
+DO NOT GOOGLE/BING/ETC. FOR ANSWERS!!! Tom has done so and has those solutions in hand.  If your work is not original, you will receive 0 points.
+
+Provide output captures that show your program self replicates.  Run the program, compile the output, run again, then run a diff on the two output files to show they are the same.
+
+Submit a zip file that has (1) your source code, and (2) necessary output captures that prove your solution self-replicates.  (3) Also include a readme.txt file that includes your team member names and discussion of any shortcomings your program has (if all works well just state 'no shortcomings').
+
+EXTRA CREDIT: 10 additional points if your program automatically self replicates (compiles itself and runs itself to produce the identical output -- the original source code).  If you do the extra credit, be sure and document it when you submit to Canvas so grader knows to look for it.

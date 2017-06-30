@@ -1,0 +1,210 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{graphics,epsfig,color}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{url}
+\newtheorem{problem}{Problem}
+\newtheorem{answer}{Answer}
+\usepackage{listings}
+
+
+\lstset{
+	language=C,
+	numbers=left,
+	stepnumber=1,        
+	numbersep=5pt,
+	backgroundcolor=\color{white},
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	tabsize=2,
+	captionpos=b,
+	breaklines=true,
+	breakatwhitespace=true,
+	title=\lstname,
+}
+\begin{document}
+	
+	\begin{center}
+		{\LARGE CSCD437 Homework 3}
+		
+		\bigskip
+		
+		{\Large Ethan Tuning}
+	\end{center}
+	
+	\bigskip
+	
+	
+	Sunny Sunheim likes writing C code.  That's because when he writes it, the sun is always shining.  If his code compiles, he won the battle and it's sunny.  If his program runs properly with his input, he won the war and it's sunny *and* warm.  Sunny smiles broadly when he wins the battle and the war, and then goes out into the sun for some serious R and R.  Your job is to rain on Sunny's 'shining' C code and identify how it can be exploited (or that it can't be exploited -- maybe Sunny got lucky (the sun was shining on him)).  Show Sunny that he spends too much time in the sun!
+	
+	For each of the following letters, identify problems/vulnerabilities and suggest how to avoid them (first) inside the function itself or (second - assuming first is not possible) how you could modify the parameters to the function to help. Since you have the code, compile and run to confirm any suspicions. All problems assume a command line argument is specified when the program is run. 
+	
+	\bigskip
+
+	Problem a:
+	
+	\bigskip
+	 
+	\begin{lstlisting}
+		int foo(char *arg, char *out){
+		
+			strcpy(out, arg);
+			return 0;
+		}
+		
+		int main(int argc, char *argv[]){
+		
+			char buf[64];
+		
+			if (argc != 2){
+				fprintf(stderr, "a: argc != 2\n");	
+				exit(EXIT_FAILURE);
+			}
+			foo(argv[1], buf);
+			return 0;
+		}
+	\end{lstlisting}
+	
+	\bigskip
+	
+	Answer a:
+
+	\bigskip
+	
+	In the foo() function strcpy() is used blindly. As it just copies bytes from arg into the out without verifying anything. This is bad because the input could be bigger than the buffer, causing an overflow. To fix this we could use strncpy() so we could specify the length that we need.
+	
+	\bigskip
+	
+	Problem b:
+	
+	\bigskip
+	
+	\begin{lstlisting}
+		int foo(char *arg){
+		
+			char buf[128];
+			int len, i;
+			len = strlen(arg);
+		
+			if(len > 136)		
+				len = 136;
+
+			for(i = 0; i <= len; i++)
+				buf[i] = arg[i];
+			
+			return 0;
+		}
+		
+		int main(int argc, char *argv[]){
+		
+			if (argc != 2){
+				fprintf(stderr, "b: argc != 2\n");
+				exit(EXIT_FAILURE);
+			}
+			foo(argv[1]);
+			return 0;
+		}
+	\end{lstlisting}
+	
+	\bigskip
+	
+	Answer b:
+	
+	\bigskip
+	
+	In this one there are a few problems. For one the buffer is a different size than then the input string. This can cause, yet again, overflow. For this issue we can fix the numbers so that they match. Next, the buffer is not initialized. To fix that we just initialize the buffer. Lastly, the for loop needs to stop at $<$ and not as it is now $<=$. So that would be a problem because then an extra byte would be copied into the buffer.
+	
+	\bigskip
+	
+	Problem c:
+	
+	\bigskip
+	
+	\begin{lstlisting}
+		int bar(char *arg, char *targ, int ltarg){
+		
+			int len, i;
+			len = strlen(arg);
+		
+			if(len > ltarg)
+				len = ltarg;
+		
+			for(i = 0; i <= len; i++)
+				targ[i] = arg[i];
+				
+			return 0;
+		}
+		
+		int foo(char *arg){
+		
+			char buf[128];
+			bar(arg, buf, 140);
+			return 0;
+		}
+		
+		int main(int argc, char *argv[]){
+		
+			if (argc != 2){
+				fprintf(stderr, "c: argc != 2\n");
+				exit(EXIT_FAILURE);
+			}
+			foo(argv[1]);
+			return 0;
+		}
+	\end{lstlisting}
+	
+	\bigskip
+	
+	Answer c:
+	
+	\bigskip
+	
+	As with the last problem the buffer and the input are different sizes. Again to avoid overflow we need to fix this. Also we need to initialize the buffer. Last, strlen() is used to determine input length. This is a problem because the input could be bigger than what is returned by strlen(). To fix this, use a loop so that it will recall the exact amount of elements that you have for your buffer. This will eliminate the overflow issue.
+	
+	\bigskip
+	
+	Problem d:
+	
+	\bigskip
+	
+	\begin{lstlisting}
+		int foo(char *arg, short arglen){
+
+			char buf[1024];
+			int i, maxlen = 1024;
+		
+			if (arglen < maxlen){
+		
+				for (i = 0; i < strlen(arg); i++)
+					buf[i] = arg[i];
+		
+			}
+			return 0;
+		}
+		
+		int main(int argc, char *argv[]){
+		
+			if (argc != 2){
+				fprintf(stderr, "d: argc != 2\n");
+				exit(EXIT_FAILURE);
+			}
+		
+			foo(argv[1], strlen(argv[1]));
+			return 0;
+		}
+	\end{lstlisting}
+	
+	\bigskip
+	
+	Answer d:
+	
+	\bigskip
+	
+	Again need to initialize buffer. Also we need to NOT use strlen() the two times that it is used in this program. For all of the reasons stated earlier. There is to much potential to have overflow from strlen(). Also in foo() eliminate the length parameter.
+	
+\end{document}

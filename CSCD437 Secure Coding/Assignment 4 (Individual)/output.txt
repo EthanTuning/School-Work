@@ -1,0 +1,767 @@
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 123121234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 123-12-1234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: qwklefj
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 123 12 1234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: (123)1231234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: (123)-123-1234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 1231231234
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: etuning5@hotmail.com
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: asdljkfsad
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: Ethan Tuning
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: Ethan JE Tuning
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 3
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 08-22-1995
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 08/22/1995
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 08221995
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 3
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 910 E Holyoke Ave
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 204 fourth st
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 12 12 12 12
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: Spokane WA 99208
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 23:12:02
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 13:12:00000
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: f
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: $5,121,124.03
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: $4.03
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: 5
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: http://google.com
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: https://google.com
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: fasdf
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: dW3k!8dJka
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: thisisnotapassword
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: hello
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: function
+
+This is not match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: Enter test case: kjion
+
+This is a match.
+
+Test a regex!
+---------------------------------
+a. Social Security Number
+b. US Phone number
+c. E-mail address
+d. Name on a class roster, assuming one or more middle initials - Last name, First name, MI
+e. Date in MM-DD-YYYY format
+f. House address - Street number, street name, abbreviation for road, street, boulevard or avenue
+g. City followed by state followed by zip as it should appear on a letter
+h. Military time, including seconds
+i. US Currency down to the penny (ex: $123,456,789.23)
+j. URL, including http:// (upper and lower case should be accepted)
+k. A password that contains at least 10 characters and includes at least one upper case character, lower case
+ character, digit, punctuation mark, and does not have more than 3
+ consecutive lower case characters
+l. All words containing an odd number of alphabetic characters, ending in 'ion'
+q. Quit tester.
+---------------------------------
+Enter your choice: 

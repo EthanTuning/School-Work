@@ -1,0 +1,9 @@
+https://www.usenix.org/legacy/event/sec11/tech/slides/enck.pdf
+http://dl.acm.org/citation.cfm?id=1882443
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7054729&tag=1
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7916515
+https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10
+https://www.owasp.org/index.php/Mobile_Security_Project_Archive
+https://www.checkmarx.com/2015/08/19/mobile-application-security-15-best-practices-for-app-developers/
+http://www.eweek.com/development/ibm-study-shows-mobile-app-developers-neglecting-security
+http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/
