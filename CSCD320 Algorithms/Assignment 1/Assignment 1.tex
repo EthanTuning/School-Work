@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage}
+\usepackage{graphics,epsfig,color}
+\usepackage{wrapfig}
+
+\usepackage{times}
+\usepackage{setspace}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{qtree}
+\usepackage{subfigure}
+\usepackage{url}
+\newtheorem{problem}{Problem}
+\newtheorem{answer}{Answer}
+
+\begin{document}
+	
+\begin{center}
+{\LARGE CSCD320 Homework1}
+		
+\bigskip
+		
+{\Large Ethan Tuning}
+\end{center}
+	
+\bigskip
+	
+\begin{problem}
+\label{prob:1}
+ Based on your learning from the CSCD300 Data Structures course, describe your understanding of the connection and difference between the “data structures” and “algorithms”. Say your opinions in your own language. Any reasonable opinion is welcome.
+\end{problem}
+
+\begin{answer}
+\label{ans:1}
+ Data structures are just a way to store data in a programming language. These can take many forms but most common are arrays, hashtables, lists, etc. An algorithm is a set of instructions that can be written in code and executed by a computer. Data structures often use algorithms to do certain things. For example, sorting, searching, etc.
+\end{answer}
+
+\bigskip
+
+\begin{problem}
+\label{prob:2}
+ Using the definition of O, prove: $3n^2 + n\sqrt{n} = O(n^2)}$
+\end{problem}
+
+\begin{answer}
+\label{ans:2}
+ Let us follow the definition of O first. So we want to prove that $0 \leq 3n^2 + n\sqrt{n} \leq Cn^2$. We can let C be 100 and we can let n also equal 100. So if we do this we can then multiply everything out and we get on the left 1300 and on the right 1000000. So according to the definition we only have to find one instance where this is true. So this is true.
+\end{answer}
+
+\bigskip
+
+\begin{problem}
+\label{prob:3}
+ Using the definition of o, prove: $2(n 100\sqrt{n})(\log{n})^2 = o(n\sqrt{n}/\log{n})$
+\end{problem}
+
+\begin{answer}
+\label{ans:3}
+ So if we are follow the definition of o, we can say that we are trying to find for any constant C that makes $2(n 100\sqrt{n})(\log{n})^2 < C(n\sqrt{n}/\log{n})$. So let us see that the left hand side is going to zero as n goes to zero and for every C the function is getting bigger. So we can conclude that this is true.
+\end{answer}
+	
+\bigskip
+
+\begin{problem}
+\label{prob:4}
+ Using the definition of $\Omega$, prove: $10n^3 + 7n\log{n} = \Omega(n^3)$ 
+\end{problem}
+
+\begin{answer}
+\label{ans:4}
+ So we if look at the definition of $\Omega$. This is saying that we need to show there exists a constant C that makes: $10n^3 + 7n\log{n} > C(n^3)$. So lets pick a value for both n and C. So lets have n equal 1 and C equal 1. So if we work everything out the left hand side will equal 1 and the right hand side will equal 1. So this is true and with the definition says we only need one instance so this is true. 
+\end{answer}
+
+\bigskip
+
+\begin{problem}
+\label{prob:5}
+ Using the definition of $\omega$, prove: $2n^2 + 5n\sqrt{n} = \omega(n\log{n})$
+\end{problem}
+
+\begin{answer}
+\label{ans:5}
+ So for this definition we can say that we need to find that for any constant C $n\log{n} < 2n^2 + 5n\sqrt{n}$. So we can observe that the left hand side is going to 0 and n gets larger and the so we can obviously find a C that wont do anything and see that the right hand side is still getting larger.
+\end{answer}
+
+\bigskip
+
+\begin{problem}
+\label{prob:6}
+ Let $f(n)$ and $g(n)$ be increasing positive functions. Using the definition of $\Theta$ prove the claim $f(n) + g(n) = \Theta(max{f(n), g(n)})$ is always true.
+\end{problem}
+
+\begin{answer}
+\label{ans:6}
+ So if we think about this is saying that we can show that $f(n) + g(n) > f(n)$ and $g(n)$ so if we have $f(n) + g(n)$ this will always we greater than $max(f(n), g(n)$ because this is just grabbing the bigger of the two as n gets bigger.
+\end{answer}
+
+\bigskip
+
+\begin{problem}
+\label{prob:7}
+ Let $f(n)$ be a positive increasing function. Is the claim $f(n) = \omega(f(\sqrt{n}))$ always true? If so prove it, if not show one example.
+\end{problem}
+
+\begin{answer}
+\label{ans:7}
+ This is just asking if for any constant C $Cg(n) < f(n)$ is always true. We can see that for any number between 0 and 1 that this is false using the definition of $\omega$.
+\end{answer}
+
+\end{document}
