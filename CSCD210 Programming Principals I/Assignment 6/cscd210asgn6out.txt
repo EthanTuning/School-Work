@@ -1,0 +1,49 @@
+    
+     ----jGRASP exec: java CSCDAsgn6
+    
+    Hello! Welcome to the Tuition Calculator Program.
+    How many total credits are you taking?:10
+    Are you a WA resident? (Y/N):Y
+    Are you a graduate student? (Yes/No):No
+    What percentage increase?:12.5
+    An undergraduate resident taking 10 credits curently pays $2457.34
+    With an increase of 12.5% per credit tuition goes up 307.1675, and an undergraduate resident taking 10 credits will pay $2764.5075
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCDAsgn6
+    
+    Hello! Welcome to the Tuition Calculator Program.
+    How many total credits are you taking?:5
+    Are you a WA resident? (Y/N):N
+    Are you a graduate student? (Yes/No):Yes
+    What percentage increase?:15.2
+    An graduate non-resident taking 5 credits curently pays $5057.3
+    With an increase of 15.2% per credit tuition goes up 768.7096, and an graduate non-resident taking 5 credits will pay $5826.0096
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCDAsgn6
+    
+    Hello! Welcome to the Tuition Calculator Program.
+    How many total credits are you taking?:20
+    Are you a WA resident? (Y/N):N
+    Are you a graduate student? (Yes/No):Yes
+    What percentage increase?:16.2
+    An graduate non-resident taking 20 credits curently pays $17749.55
+    With an increase of 16.2% per credit tuition goes up 2875.4271, and an graduate non-resident taking 20 credits will pay $20624.9771
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCDAsgn6
+    
+    Hello! Welcome to the Tuition Calculator Program.
+    How many total credits are you taking?:18
+    Are you a WA resident? (Y/N):Y
+    Are you a graduate student? (Yes/No):Yes
+    What percentage increase?:9.6
+    An graduate resident taking 18 credits curently pays $3639.82
+    With an increase of 9.6% per credit tuition goes up 349.42272, and an graduate resident taking 18 credits will pay $3989.24272
+    
+     ----jGRASP: operation complete.
+    

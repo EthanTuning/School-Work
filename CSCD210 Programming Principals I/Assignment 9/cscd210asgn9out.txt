@@ -1,0 +1,64 @@
+    
+     ----jGRASP exec: java CSCD210Asgn9
+    
+    Welcome to Mastermind CSCD210 Edition.8643
+    Enter your guess(must have 4 digits and no repeats): 1234
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 4578
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 4651
+    You got 1 numbers in the right place.
+    You got 1 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 5894
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 4521
+    You got 0 numbers in the right place.
+    You got 1 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 3256
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 1254
+    You got 0 numbers in the right place.
+    You got 1 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 2356
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 1245
+    You got 1 numbers in the right place.
+    You got 0 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 1257
+    You got 0 numbers in the right place.
+    You got 0 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 1254
+    You got 0 numbers in the right place.
+    You got 1 numbers right but they are in the wrong place.
+    Enter your guess(must have 4 digits and no repeats): 4518
+    You got 0 numbers in the right place.
+    You got 2 numbers right but they are in the wrong place.
+    You have no more attempts re-maining! :( The key was 8643
+    Would you like to play again? (yes/no)yes
+    5634
+    Enter your guess(must have 4 digits and no repeats): 5634
+    YOU ARE A WINNER!!
+    Would you like to play again? (yes/no)maybeeee
+    Must enter yes or no!ok
+    Must enter yes or no!yes
+    2863
+    Enter your guess(must have 4 digits and no repeats): 12366
+    Enter your guess(must have 4 digits and no repeats): 457777
+    Enter your guess(must have 4 digits and no repeats): ajksdfh
+    Enter your guess(must have 4 digits and no repeats): 2863
+    YOU ARE A WINNER!!
+    Would you like to play again? (yes/no)yes
+    1583
+    Enter your guess(must have 4 digits and no repeats): 1
+    Enter your guess(must have 4 digits and no repeats): 456
+    Enter your guess(must have 4 digits and no repeats): 1583
+    YOU ARE A WINNER!!
+    Would you like to play again? (yes/no)no
+    
+     ----jGRASP: operation complete.
+    

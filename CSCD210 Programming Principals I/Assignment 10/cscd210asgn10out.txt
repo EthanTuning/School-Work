@@ -1,0 +1,114 @@
+    
+     ----jGRASP exec: java CSCD210Asgn10
+    
+    Enter a positive integer:56
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:7
+    Invalid menu choice, please try again: 2
+    odds: 1
+    evens: 1
+    zeros: 0
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:3
+    Enter another integer: 11
+    Light
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:4
+    The prime numbers between 2 and 56are: 
+    3
+    5
+    7
+    11
+    13
+    17
+    19
+    23
+    29
+    31
+    37
+    41
+    43
+    47
+    53
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:1
+    Enter a positive integer:123
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:2
+    odds: 2
+    evens: 1
+    zeros: 0
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:3
+    Enter another integer: 994
+    Light
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:4
+    The prime numbers between 2 and 123are: 
+    3
+    5
+    7
+    11
+    13
+    17
+    19
+    23
+    29
+    31
+    37
+    41
+    43
+    47
+    53
+    59
+    61
+    67
+    71
+    73
+    79
+    83
+    89
+    97
+    101
+    103
+    107
+    109
+    113
+    1. Enter a new number:
+    2. Print the number of odd, even and zeros in the integer.
+    3. Print if number is light or heavy.
+    4. Print all prime numbers from 2 to your number.
+    5. Exit.
+    Select a menu option:5
+    Good Bye
+    
+     ----jGRASP: operation complete.
+    

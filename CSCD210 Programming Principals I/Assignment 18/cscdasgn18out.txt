@@ -1,0 +1,10 @@
+    
+     ----jGRASP exec: java CSCD210Asgn18
+    
+    This die has 6 sides
+     Sides 20
+    You rolled a 9
+    Dies have the same number of sides
+    
+     ----jGRASP: operation complete.
+    

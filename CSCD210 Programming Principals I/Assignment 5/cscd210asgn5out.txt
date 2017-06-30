@@ -1,0 +1,27 @@
+    
+     ----jGRASP exec: java CSCD210Asgn5
+    
+    Enter three different integers below:
+    5
+    2
+    89
+    Enter three different doubles below:
+    89.2
+    56.2
+    98.65
+    Enter three different Strings:
+    Ethan
+    Brandon
+    Kole
+    Integers in asceding order are:
+    2
+    5
+    89
+    The doubles in ascending order are:
+    56.2
+    89.2
+    98.65
+    The strings in ascending order are:
+    
+     ----jGRASP: operation complete.
+    

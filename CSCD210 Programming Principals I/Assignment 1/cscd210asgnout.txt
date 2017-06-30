@@ -1,0 +1,28 @@
+    
+     ----jGRASP exec: java CSCD210Asgn1
+    
+    Please enter your name Ethan
+    Please enter number of credits you are taking 15
+    Welcome Ethan
+    Good luck taking 15 credits
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn1
+    
+    Please enter your name Ethan
+    Please enter number of credits you are taking 15
+    Welcome Ethan
+    Good luck taking 15 credits
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn1
+    
+    Please enter your name Ethan
+    Please enter number of credits you are taking 15
+    Welcome Ethan
+    Good luck taking 15 credits
+    
+     ----jGRASP: operation complete.
+    

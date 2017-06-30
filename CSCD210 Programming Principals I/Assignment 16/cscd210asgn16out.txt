@@ -1,0 +1,61 @@
+    
+     ----jGRASP exec: java CSCD210Asgn16
+    
+    Enter number of rows:2
+    Enter number of columns:2
+    Enter an integer: 1
+    Enter an integer: 2
+    Enter an integer: 3
+    Enter an integer: 4
+    1. Print Array.
+    2. Print Rows.
+    3. Double number of rows.
+    4. Swap rows.
+    5. Exit.
+    What would you like to do?: 1
+    1 2 
+    3 4 
+    1. Print Array.
+    2. Print Rows.
+    3. Double number of rows.
+    4. Swap rows.
+    5. Exit.
+    What would you like to do?: 2
+    Enter row: 1
+    3
+    4
+    1. Print Array.
+    2. Print Rows.
+    3. Double number of rows.
+    4. Swap rows.
+    5. Exit.
+    What would you like to do?: 3
+    Enter an Integer: 5
+    Enter an Integer: 6
+    Enter an Integer: 7
+    Enter an Integer: 8
+    1 2 
+    3 4 
+    5 6 
+    7 8 
+    1. Print Array.
+    2. Print Rows.
+    3. Double number of rows.
+    4. Swap rows.
+    5. Exit.
+    What would you like to do?: 4
+    Enter row: 2
+    Enter row to switch with 2:1
+    1 2 
+    5 6 
+    3 4 
+    7 8 
+    1. Print Array.
+    2. Print Rows.
+    3. Double number of rows.
+    4. Swap rows.
+    5. Exit.
+    What would you like to do?: 5
+    
+     ----jGRASP: operation complete.
+    

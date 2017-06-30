@@ -1,0 +1,66 @@
+    
+     ----jGRASP exec: java CSCD210Asgn2
+    
+    Please Enter a Value:0
+    Your base is:0.0
+    Your side is:0.0
+    Your height is:0.0
+    Your area is:0.0
+    The sin of 30 degrees is:0.49999999999999994
+    The cosine of 30 degrees is:0.8660254037844387
+    The tangent of 30 degrees is:0.5773502691896257
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn2
+    
+    Please Enter a Value:.2
+    Your base is:0.2
+    Your side is:0.4
+    Your height is:0.34641016151377546
+    Your area is:0.03464101615137755
+    The sin of 30 degrees is:0.49999999999999994
+    The cosine of 30 degrees is:0.8660254037844387
+    The tangent of 30 degrees is:0.5773502691896257
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn2
+    
+    Please Enter a Value:3
+    Your base is:3.0
+    Your side is:6.0
+    Your height is:5.196152422706632
+    Your area is:7.794228634059947
+    The sin of 30 degrees is:0.49999999999999994
+    The cosine of 30 degrees is:0.8660254037844387
+    The tangent of 30 degrees is:0.5773502691896257
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn2
+    
+    Please Enter a Value:1000
+    Your base is:1000.0
+    Your side is:2000.0
+    Your height is:1732.0508075688772
+    Your area is:866025.4037844386
+    The sin of 30 degrees is:0.49999999999999994
+    The cosine of 30 degrees is:0.8660254037844387
+    The tangent of 30 degrees is:0.5773502691896257
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn2
+    
+    Please Enter a Value:1223.453
+    Your base is:1223.453
+    Your side is:2446.906
+    Your height is:2119.0827566725657
+    Your area is:1296299.0779496601
+    The sin of 30 degrees is:0.49999999999999994
+    The cosine of 30 degrees is:0.8660254037844387
+    The tangent of 30 degrees is:0.5773502691896257
+    
+     ----jGRASP: operation complete.
+    

@@ -1,0 +1,45 @@
+    
+     ----jGRASP exec: java CSCD210Asgn11
+    
+    Enter your name: Ethan
+    Enter your height: 73
+    Enter your weight: 195
+    Name: Ethan
+    Your height: 73.0
+    Your weught: 195.0
+    Your BMI: 25.724338525051607
+    You are: overweight
+    Do you want to play again(yes/no): yes
+    Enter your name: Austin
+    Enter your height: 76
+    Enter your weight: 166
+    Name: Austin
+    Your height: 76.0
+    Your weught: 166.0
+    Your BMI: 20.20394736842105
+    You are: normal
+    Do you want to play again(yes/no): yes
+    Enter your name: Kieth
+    Enter your height: 74
+    Enter your weight: 206
+    Name: Kieth
+    Your height: 74.0
+    Your weught: 206.0
+    Your BMI: 26.445945945945947
+    You are: overweight
+    Do you want to play again(yes/no): yes
+    Enter your name: blob
+    Enter your height: 9
+    Enter a value greater than 10.: 11
+    Enter your weight: 345
+    Name: blob
+    Your height: 11.0
+    Your weught: 345.0
+    Your BMI: 2004.4214876033059
+    You are: obese
+    Do you want to play again(yes/no): hmmm
+    Do you want to play again(yes/no): blahhhhh
+    Do you want to play again(yes/no): no
+    Good Bye!
+     ----jGRASP: operation complete.
+    

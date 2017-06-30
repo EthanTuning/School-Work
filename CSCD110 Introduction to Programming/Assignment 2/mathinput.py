@@ -1,0 +1,13 @@
+#Ethan Tuning, 1/14/15
+first_number = int(input('Enter fist number:'))
+second_number = int(input('Enter second number:'))
+print()
+print('a is:',first_number)
+print('b is:',second_number)
+print()
+print('a+b is:',first_number+second_number)
+print('a-b is:',first_number-second_number)
+print()
+print('a/b is:',first_number/second_number) 
+print('a//b is:',first_number//second_number)
+print('a%b is:',first_number%second_number)

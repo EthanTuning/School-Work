@@ -1,0 +1,58 @@
+    
+     ----jGRASP exec: java CSCD210Asgn3
+    
+    Enter your name:Ethan Tuning
+    Enter the total restaurant bill:10.80
+    Enter the current tax rate:.08
+    Enter the number of people in your party:3
+    Enter the tip percentage:20
+    Enter the total times you will eat out this year:64
+    Welcome Ethan Tuning
+    Your bill without tax or tip is: 10.8
+    Your bill with tax and tip is: 13.824000000000002
+    Since you have 3 in yout party, each person will pay: 4.6080000000000005
+    Your total amount spent on eating out this year will be about: 884.7360000000001
+    Your total amount spent on eating out this month will be about: 73.72800000000001
+    Your total amount spent on eating out this week will be about: 16.95627425614489
+    Your total amount spent on tips this year will be about: 138.24
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn3
+    
+    Enter your name:Ethan Tuning
+    Enter the total restaurant bill:145.98
+    Enter the current tax rate:.08
+    Enter the number of people in your party:2
+    Enter the tip percentage:15
+    Enter the total times you will eat out this year:75
+    Welcome Ethan Tuning
+    Your bill without tax or tip is: 145.98
+    Your bill with tax and tip is: 179.5554
+    Since you have 2 in yout party, each person will pay: 89.7777
+    Your total amount spent on eating out this year will be about: 13466.654999999999
+    Your total amount spent on eating out this month will be about: 1122.2212499999998
+    Your total amount spent on eating out this week will be about: 258.09314359637773
+    Your total amount spent on tips this year will be about: 1642.2749999999999
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CSCD210Asgn3
+    
+    Enter your name:Ethan Tuning
+    Enter the total restaurant bill:846.56
+    Enter the current tax rate:.08
+    Enter the number of people in your party:1
+    Enter the tip percentage:30
+    Enter the total times you will eat out this year:156
+    Welcome Ethan Tuning
+    Your bill without tax or tip is: 846.56
+    Your bill with tax and tip is: 1168.2527999999998
+    Since you have 1 in yout party, each person will pay: 1168.2527999999998
+    Your total amount spent on eating out this year will be about: 182247.43679999997
+    Your total amount spent on eating out this month will be about: 15187.286399999997
+    Your total amount spent on eating out this week will be about: 3492.8357395429057
+    Your total amount spent on tips this year will be about: 39619.007999999994
+    
+     ----jGRASP: operation complete.
+    

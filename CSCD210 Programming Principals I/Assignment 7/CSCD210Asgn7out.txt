@@ -1,0 +1,52 @@
+    
+     ----jGRASP exec: java CSCDAsgn7
+    
+    Welcome to my PI appoximation program!Enter the term number to which you like to approxiate Pi?:50
+    Term 39:3.1659792728432157
+    Term 40:3.117786501758878
+    Term 41:3.1648453252882898
+    Term 42:3.118868313794037
+    Term 43:3.163812134018756
+    Term 44:3.1198560900627124
+    Term 45:3.1628668427508844
+    Term 46:3.1207615795929895
+    Term 47:3.161998692995051
+    Term 48:3.121594652591011
+    Term 49:3.1611986129870506
+    Term 50:3.12236366153074
+    Want to play again?:yes
+    Welcome to my PI appoximation program!Enter the term number to which you like to approxiate Pi?:1
+    Must enter a number greater than 9.
+    Enter the term number to which you like to approxiate Pi?:8
+    Must enter a number greater than 9.
+    Enter the term number to which you like to approxiate Pi?:88
+    Term 77:3.1542503744801236
+    Term 78:3.129093141775721
+    Term 79:3.1539378622726155
+    Term 80:3.129397984972002
+    Term 81:3.1536404092144266
+    Term 82:3.129688313406043
+    Term 83:3.1533569524592977
+    Term 84:3.129965139593801
+    Term 85:3.153086526877038
+    Term 86:3.1302293840198954
+    Term 87:3.1528282540763923
+    Term 88:3.1304818853613083
+    Want to play again?:yes
+    Welcome to my PI appoximation program!Enter the term number to which you like to approxiate Pi?:325
+    Term 314:3.1384281045504716
+    Term 315:3.1447472198743265
+    Term 316:3.138448007275901
+    Term 317:3.1447274421267646
+    Term 318:3.1384676612190963
+    Term 319:3.1447079108290805
+    Term 320:3.138487071015706
+    Term 321:3.1446886214033025
+    Term 322:3.1385062411869193
+    Term 323:3.144669569384146
+    Term 324:3.1385251761429784
+    Term 325:3.1446507504155665
+    Want to play again?:no
+    
+     ----jGRASP: operation complete.
+    
