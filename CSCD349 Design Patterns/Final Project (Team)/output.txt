@@ -1,0 +1,570 @@
+==================================================================================
+
+====== ATTN: GRADER, the extra credit is marked with an UNDO FUNCTION header =====
+
+==================================================================================
+Do you want to load a saved game?(y/n)
+n
+Enter the number of heros for the battle
+4
+1 Warrior
+2 Thief
+3 Sorceres
+4 Ninja
+5 Eagle
+Choose your hero number 1
+1
+Choose your hero number 2
+3
+Choose your hero number 3
+5
+Choose your hero number 4
+2
+-----------------------------------------
+Warrior fights Swiper
+-----------------------------------------
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+1
+Swiper hit  for <38> points damage.
+Swiper now has 162 hit points remaining.
+
+Swiper healed itself for 53 points.
+Total hit points remaining are: 215
+
+
+Swiper attacks Warrior
+Warrior hit  for <21> points damage.
+Warrior now has 104 hit points remaining.
+
+
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+1
+Swiper hit  for <44> points damage.
+Swiper now has 171 hit points remaining.
+
+Swiper healed itself for 53 points.
+Total hit points remaining are: 224
+
+
+Swiper attacks Warrior
+Warrior hit  for <48> points damage.
+Warrior now has 56 hit points remaining.
+
+
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+2
+Attack from dungeon.CrushingBlowAttack
+Warrior failed to land a crushing blow on Swiper
+
+Swiper attacks Warrior
+Warrior hit  for <21> points damage.
+Warrior now has 35 hit points remaining.
+
+
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+2
+Attack from dungeon.CrushingBlowAttack
+Warrior failed to land a crushing blow on Swiper
+
+Swiper attacks Warrior
+Warrior BLOCKED the attack!
+
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+1
+Swiper hit  for <56> points damage.
+Swiper now has 168 hit points remaining.
+
+Swiper healed itself for 50 points.
+Total hit points remaining are: 218
+
+
+Swiper attacks Warrior
+Warrior hit  for <26> points damage.
+Warrior now has 9 hit points remaining.
+
+
+Warrior attacks Swiper
+
+1. Attack
+2. Crushing Blow
+2
+Attack from dungeon.CrushingBlowAttack
+Warrior failed to land a crushing blow on Swiper
+
+Swiper attacks Warrior
+Warrior hit  for <44> points damage.
+Warrior now has 0 hit points remaining.
+
+Warrior has been killed :-(
+
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+2
+======================================= SAVING BATTLE STATE ======================
+Saving battle state
+. . . Saving object to file
+-----------------------------------------
+Sorceress fights Swiper
+-----------------------------------------
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Swiper hit  for <55> points damage.
+Swiper now has 163 hit points remaining.
+
+
+Swiper attacks Sorceress
+Sorceress hit  for <46> points damage.
+Sorceress now has 79 hit points remaining.
+
+
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Sorceress's attack on Swiper failed!
+
+Swiper attacks Sorceress
+Sorceress hit  for <49> points damage.
+Sorceress now has 30 hit points remaining.
+
+
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Swiper hit  for <57> points damage.
+Swiper now has 106 hit points remaining.
+
+Swiper healed itself for 57 points.
+Total hit points remaining are: 163
+
+
+Swiper attacks Sorceress
+Sorceress hit  for <29> points damage.
+Sorceress now has 1 hit points remaining.
+
+
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Sorceress's attack on Swiper failed!
+
+Swiper attacks Sorceress
+Sorceress hit  for <39> points damage.
+Sorceress now has 0 hit points remaining.
+
+Sorceress has been killed :-(
+
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+1
+-----------------------------------------
+Eagle fights Swiper
+-----------------------------------------
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+1
+Swiper hit  for <39> points damage.
+Swiper now has 124 hit points remaining.
+
+
+Swiper attacks Eagle
+Eagle hit  for <26> points damage.
+Eagle now has 124 hit points remaining.
+
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+2
+Attack from dungeon.FireBallAttackSwiper attacks Eagle
+Eagle hit  for <49> points damage.
+Eagle now has 75 hit points remaining.
+
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+1
+Eagle's attack on Swiper failed!
+
+Swiper attacks Eagle
+Eagle BLOCKED the attack!
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+1
+Swiper hit  for <48> points damage.
+Swiper now has 76 hit points remaining.
+
+Swiper healed itself for 34 points.
+Total hit points remaining are: 110
+
+
+Swiper attacks Eagle
+Eagle hit  for <20> points damage.
+Eagle now has 55 hit points remaining.
+
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+
+1
+Swiper hit  for <45> points damage.
+Swiper now has 65 hit points remaining.
+
+Swiper healed itself for 57 points.
+Total hit points remaining are: 122
+
+
+Swiper attacks Eagle
+Eagle hit  for <45> points damage.
+Eagle now has 10 hit points remaining.
+
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+1
+Swiper hit  for <35> points damage.
+Swiper now has 87 hit points remaining.
+
+Swiper healed itself for 55 points.
+Total hit points remaining are: 142
+
+
+Swiper attacks Eagle
+Swiper's attack on Eagle failed!
+
+Eagle attacks Swiper
+
+1. Attack
+2. Fireball Attack
+1
+Swiper hit  for <35> points damage.
+Swiper now has 107 hit points remaining.
+
+Swiper healed itself for 47 points.
+Total hit points remaining are: 154
+
+
+Swiper attacks Eagle
+Eagle hit  for <21> points damage.
+Eagle now has 0 hit points remaining.
+
+Eagle has been killed :-(
+
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+5
+===================================== GAME STATS ==================================
+Heros
+--------------------------------------
+name: Warrior health: 0
+name: Sorceress health: 0
+name: Eagle health: 0
+name: Thief health: 125
+
+Monsters
+--------------------------------------
+name: Swiper health: 154
+name: Gnarltooth the Gremlin health: 70
+name: Sargath the Skeleton health: 100
+name: Ogre health: 200
+-----------------------------------------
+Thief fights Swiper
+-----------------------------------------
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <38> points damage.
+Swiper now has 116 hit points remaining.
+
+Swiper healed itself for 44 points.
+Total hit points remaining are: 160
+
+
+Swiper attacks Thief
+Thief BLOCKED the attack!
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Thief's attack on Swiper failed!
+
+Swiper attacks Thief
+Thief hit  for <34> points damage.
+Thief now has 91 hit points remaining.
+
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Thief's attack on Swiper failed!
+
+Swiper attacks Thief
+Thief BLOCKED the attack!
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <45> points damage.
+Swiper now has 115 hit points remaining.
+
+Swiper healed itself for 35 points.
+Total hit points remaining are: 150
+
+
+Swiper attacks Thief
+Thief BLOCKED the attack!
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <35> points damage.
+Swiper now has 115 hit points remaining.
+
+Swiper healed itself for 55 points.
+Total hit points remaining are: 170
+
+
+Swiper attacks Thief
+Thief BLOCKED the attack!
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <43> points damage.
+Swiper now has 127 hit points remaining.
+
+Swiper healed itself for 50 points.
+Total hit points remaining are: 177
+
+
+Swiper attacks Thief
+Thief hit  for <37> points damage.
+Thief now has 54 hit points remaining.
+
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <56> points damage.
+Swiper now has 121 hit points remaining.
+
+Swiper healed itself for 43 points.
+Total hit points remaining are: 164
+
+
+Swiper attacks Thief
+Thief hit  for <32> points damage.
+Thief now has 22 hit points remaining.
+
+
+Thief attacks Swiper
+
+1. Attack
+2. Surprise Attack
+1
+Swiper hit  for <38> points damage.
+Swiper now has 126 hit points remaining.
+
+Swiper healed itself for 59 points.
+Total hit points remaining are: 185
+
+
+Swiper attacks Thief
+Thief hit  for <43> points damage.
+Thief now has 0 hit points remaining.
+
+Thief has been killed :-(
+
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+-1
+Heros have been defeated
+Want to play again?
+Enter y/n
+n
+
+
+===================== LOAD FROM A SAVED GAME ===================
+Do you want to load a saved game?(y/n)
+y
+Loading saved game
+-----------------------------------------
+Sorceress fights Swiper
+-----------------------------------------
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Swiper hit  for <55> points damage.
+Swiper now has 163 hit points remaining.
+
+
+Swiper attacks Sorceress
+Sorceress BLOCKED the attack!
+
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+1
+Swiper hit  for <52> points damage.
+Swiper now has 111 hit points remaining.
+
+Swiper healed itself for 57 points.
+Total hit points remaining are: 168
+
+
+Swiper attacks Sorceress
+Sorceress BLOCKED the attack!
+
+Sorceress attacks Swiper
+
+1. Attack
+2. Heal
+
+========================== UNDO FUNCTION ================================
+
+Swiper has been killed :-(
+
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+4
+Restoring state
+Heros
+--------------------------------------
+name: Ninja health: 190
+name: Sorceress health: 125
+
+Monsters
+--------------------------------------
+name: Swiper health: 200
+name: Sargath the Skeleton health: 100
+Undo successful
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+4
+Restoring state
+Empty stack 
+Already at last undo
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+4
+Restoring state
+Empty stack 
+Already at last undo
+1. Continue battle
+2. Save game to file
+3. Load game to file
+4. Undo attack
+5. Print game stats
+
+-1. Quit the game
+
+
+================= END OF A BATTLE ===================
+5
+Heros
+--------------------------------------
+name: Warrior health: 0
+name: Sorceress health: 0
+name: Eagle health: 0
+name: Thief health: 0
+
+Monsters
+--------------------------------------
+name: Swiper health: 135
+name: Gnarltooth the Gremlin health: 70
+name: Sargath the Skeleton health: 100
+name: Ogre health: 200
+Heros have been defeated
+Want to play again?
+Enter y/n
+n
+
+
+Game ended
