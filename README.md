@@ -1,2 +1,2 @@
 # School-Work
-This repository is hold all of my work completed from school.
+This repository holds all of my work completed from EWU's computer science program.
