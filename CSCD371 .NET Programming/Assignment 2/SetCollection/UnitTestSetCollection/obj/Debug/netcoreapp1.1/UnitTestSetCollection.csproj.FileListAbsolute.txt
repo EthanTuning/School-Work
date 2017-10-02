@@ -1,0 +1,15 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\UnitTestSetCollection.deps.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\UnitTestSetCollection.runtimeconfig.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\UnitTestSetCollection.runtimeconfig.dev.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\obj\Debug\netcoreapp1.1\UnitTestSetCollection.csprojResolveAssemblyReference.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\obj\Debug\netcoreapp1.1\UnitTestSetCollection.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\obj\Debug\netcoreapp1.1\UnitTestSetCollection.AssemblyInfo.cs
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\UnitTestSetCollection.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\UnitTestSetCollection.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\SetCollection.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\bin\Debug\netcoreapp1.1\SetCollection.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\obj\Debug\netcoreapp1.1\UnitTestSetCollection.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\UnitTestSetCollection\obj\Debug\netcoreapp1.1\UnitTestSetCollection.pdb

@@ -1,0 +1,8 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\bin\Debug\netcoreapp1.1\SetCollection.deps.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\obj\Debug\netcoreapp1.1\SetCollection.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\obj\Debug\netcoreapp1.1\SetCollection.AssemblyInfo.cs
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\bin\Debug\netcoreapp1.1\SetCollection.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\bin\Debug\netcoreapp1.1\SetCollection.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\obj\Debug\netcoreapp1.1\SetCollection.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\obj\Debug\netcoreapp1.1\SetCollection.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 2\SetCollection\SetCollection\obj\Debug\netcoreapp1.1\SetCollection.csprojResolveAssemblyReference.cache
