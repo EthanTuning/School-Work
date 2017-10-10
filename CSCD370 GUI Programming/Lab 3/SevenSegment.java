@@ -3,7 +3,6 @@ package etuninglab3;
 
 import java.util.Arrays;
 import javafx.geometry.HPos;
-import javafx.geometry.Pos;
 import javafx.geometry.VPos;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
@@ -37,19 +36,19 @@ public class SevenSegment extends Region {
     
     
     public SevenSegment() {
-        this.getChildren().add(mCanvas);
+        getChildren().add(mCanvas);
         setPrefSize(20000,34000);
-        Arrays.fill(segmentState, 0);
-        currentValue = 10;
+        setCurrentValue(0);
     }
     
     public SevenSegment(int value) {
-        this();
+        getChildren().add(mCanvas);
+        setPrefSize(20000,34000);
         setCurrentValue(value);
     }
     
     public int getCurrentValue() {
-        return this.currentValue;
+        return currentValue;
     }
     
     public void setCurrentValue(int value) {
@@ -73,6 +72,10 @@ public class SevenSegment extends Region {
             segmentState = states[8];
         if(value == 9)
             segmentState = states[9];
+        else
+            System.out.print("Invalid");
+        
+        currentValue = value;
     }
     
     public void draw() {
@@ -80,11 +83,13 @@ public class SevenSegment extends Region {
         double calcX;
         double calcY;
         
+        gc.setFill(Color.WHITE);
+        gc.fillRect(0, 0, mCanvas.getWidth(), mCanvas.getHeight());
         
+        gc.save();
         calcX = (mCanvas.getWidth() / dimX);
         calcY = (mCanvas.getHeight() / dimY);
         gc.scale(calcX, calcY);
-        gc.translate(margin, margin);
         
         gc.save();
         gc.setFill(segmentState[0] == 0 ? off:on);
@@ -115,7 +120,7 @@ public class SevenSegment extends Region {
         gc.save();
         gc.translate(8.5, 7);
         gc.rotate(90);
-        gc.setFill(segmentState[2] == 0 ? off:on);
+        gc.setFill(segmentState[5] == 0 ? off:on);
         gc.fillPolygon(xPoints, yPoints, xPoints.length);
         gc.restore();
         
@@ -130,14 +135,16 @@ public class SevenSegment extends Region {
         gc.setFill(segmentState[3] == 0 ? off:on);
         gc.fillPolygon(xPoints, yPoints, xPoints.length);
         gc.restore();
+        
+        gc.restore();
     }
     
     @Override
     public void layoutChildren() {
-        double avW = this.getWidth();
-        double avH = this.getHeight();
-        double calcH = avW / .588;
-        double calcW = avH * .588;
+        double avW = getWidth();
+        double avH = getHeight();
+        double calcH = avW / aspectRatio;
+        double calcW = avH * aspectRatio;
         double finalH;
         double finalW;
         
@@ -152,7 +159,7 @@ public class SevenSegment extends Region {
         
         mCanvas.setHeight(finalH);
         mCanvas.setWidth(finalW);
-        this.layoutInArea(this, getLayoutX(), getLayoutY(), getWidth(), getHeight(), 0, HPos.CENTER, VPos.CENTER);
+        layoutInArea(mCanvas, 0, 0, finalW, finalH, 0, HPos.CENTER, VPos.CENTER);
         draw();
     }
 }
