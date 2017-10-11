@@ -1,0 +1,6 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\bin\Debug\netcoreapp1.1\FileSystemWatcher.deps.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\bin\Debug\netcoreapp1.1\FileSystemWatcher.runtimeconfig.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\bin\Debug\netcoreapp1.1\FileSystemWatcher.runtimeconfig.dev.json
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\obj\Debug\netcoreapp1.1\FileSystemWatcher.csprojResolveAssemblyReference.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\obj\Debug\netcoreapp1.1\FileSystemWatcher.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 3\FileSystemWatcher\FileSystemWatcher\obj\Debug\netcoreapp1.1\FileSystemWatcher.AssemblyInfo.cs
