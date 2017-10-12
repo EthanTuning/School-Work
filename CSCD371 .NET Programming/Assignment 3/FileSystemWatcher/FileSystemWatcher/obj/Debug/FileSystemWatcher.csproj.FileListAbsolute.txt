@@ -1,0 +1,7 @@
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csprojResolveAssemblyReference.cache
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\etuni\Desktop\FileSys\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
