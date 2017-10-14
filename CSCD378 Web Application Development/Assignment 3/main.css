@@ -1,0 +1,76 @@
+body {
+    background: url(image.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+    color: floralwhite;
+}
+
+h1{
+    font-size: 470%;
+    text-align: center;
+}
+
+h2 {
+    padding-left: 25%;
+    font-size: 200%;
+}
+
+p {
+    padding-left: 35%;
+    font-size: 170%;
+    padding-bottom: 4%;
+}
+
+.search {
+    width: 600px;
+    height: 60px;
+    margin: 150px auto;
+    background: #444;
+    background: rgba(0, 0, 0, .2);
+    border-radius: 20px;
+    border: 2px solid #fff;
+}
+
+.search input {
+    width: 470px;
+    padding: 10px 5px;
+    float: left;
+    color: #ccc;
+    border: 0;
+    background: transparent;
+    border-radius: 3px 0 0 3px;
+    font-size: 35px;
+}
+
+.search input:focus {
+    outline: 0;
+    background: transparent;
+}
+
+.search button {
+    font-size: 20px;
+    position: relative;
+    float: right;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 60px;
+    width: 120px;
+    color: floralwhite;
+    background: transparent;
+    border-left: 2px solid #fff;
+    border-radius: 0px 17px 17px 0px;
+}
+
+.search button:hover {
+    background: floralwhite;
+    color: #444;
+}
+
+.search button:active {
+    box-shadow: 0px 0px 12px 0px rgba(225, 225, 225, 1);
+}
+
+.search button:focus {
+    outline: 0;
+}
