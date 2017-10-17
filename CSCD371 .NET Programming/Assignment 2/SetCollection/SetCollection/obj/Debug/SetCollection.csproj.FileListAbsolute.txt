@@ -1,0 +1,7 @@
+C:\Users\etuni\Desktop\SetCollection\SetCollection\obj\Debug\SetCollection.csprojResolveAssemblyReference.cache
+C:\Users\etuni\Desktop\SetCollection\SetCollection\obj\Debug\SetCollection.csproj.CoreCompileInputs.cache
+C:\Users\etuni\Desktop\SetCollection\SetCollection\bin\Debug\SetCollection.dll.config
+C:\Users\etuni\Desktop\SetCollection\SetCollection\bin\Debug\SetCollection.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollection\bin\Debug\SetCollection.pdb
+C:\Users\etuni\Desktop\SetCollection\SetCollection\obj\Debug\SetCollection.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollection\obj\Debug\SetCollection.pdb
