@@ -1,0 +1,16 @@
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\SetCollectionTest.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\SetCollectionTest.pdb
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\SetCollection.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\SetCollection.pdb
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\bin\Release\SetCollection.dll.config
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\obj\Release\SetCollectionTest.csprojResolveAssemblyReference.cache
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\obj\Release\SetCollectionTest.csproj.CoreCompileInputs.cache
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\obj\Release\SetCollectionTest.dll
+C:\Users\etuni\Desktop\SetCollection\SetCollectionTest\obj\Release\SetCollectionTest.pdb
