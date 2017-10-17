@@ -1,0 +1,26 @@
+Questions
+
+1. What exactly is NMEA 0183 format?
+
+2. Within the Latitude and Longitude constructors, how does the 
+   encoding of a double to NMEA work?
+
+3. Within the ShapeArc class, interpolateDelta() I am not quite
+   understanding, could you elaborate what exactly this process
+   is doing.
+
+4. Within the CoordinatesScreen class, regarding the isVisible() methods
+   does this literally mean visible on the screen?
+
+Difficulty
+
+CoordinatesWorld
+A_LatitudeLongitude
+CoordinatesDelta
+CoordinatesScreen
+ShapeArc
+A_Shape
+Angle
+ShapeLine
+Latitude
+Longitude
