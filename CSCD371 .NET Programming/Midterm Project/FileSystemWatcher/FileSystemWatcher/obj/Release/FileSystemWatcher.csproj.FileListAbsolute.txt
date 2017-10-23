@@ -1,0 +1,13 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\FileSystemWatcher.exe.config
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\FileSystemWatcher.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\FileSystemWatcher.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\System.Data.SQLite.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\System.Data.SQLite.EF6.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Release\System.Data.SQLite.Linq.dll
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.DBqueryForm.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.FileSystemWatcherForm.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.Properties.Resources.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.csproj.GenerateResource.Cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Release\FileSystemWatcher.pdb

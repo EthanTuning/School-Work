@@ -1,0 +1,10 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.DBqueryForm.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.FileSystemWatcherForm.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.GenerateResource.Cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Assignment 4\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
