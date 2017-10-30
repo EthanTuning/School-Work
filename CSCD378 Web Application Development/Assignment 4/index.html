@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="movie_db_script.js"></script>
+    <link rel="stylesheet" href="main.css">
+    <title>Movie Database Application</title>
+</head>
+
+<body>
+    <h1>Movie Database App</h1>
+    <section>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Year</th>
+                    <th>Studio</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody id="data"></tbody>
+        </table>
+        <div id="btn-container">
+            <button id="new-btn">New</button>
+            <button id="refresh-btn">Refresh</button>
+        </div>
+        <div id="add-form-container">
+            <form id="add-form">
+                <h3>Add a Movie</h3>
+                <input id="add-title" placeholder="Title" name="movie_name" type="text" required />
+                <input id="add-year" placeholder="Year" name="movie_year" type="text" required />
+                <input id="add-stud" placeholder="Studio" name="movie_studio" type="text" required />
+                <input id="add-desc" placeholder="Description" name="movie_desc" type="text" required />
+                <input id="add-price" placeholder="Price" name="movie_price" type="text" required />
+                <button id="add-ok">Ok</button>
+            </form>
+        </div>
+        <div id="update-form-container">
+            <form id="update-form">
+                <h3>Edit Movie</h3>
+                <input id="update-id" name="movie_id" type="hidden" required />
+                <input id="update-title" placeholder="Title" name="movie_name" type="text" required />
+                <input id="update-year" placeholder="Year" name="movie_year" type="text" required />
+                <input id="update-stud" placeholder="Studio" name="movie_studio" type="text" required />
+                <input id="update-desc" placeholder="Description" name="movie_desc" type="text" required />
+                <input id="update-price" placeholder="Price" name="movie_price" type="text" required />
+                <button id="update-ok">Ok</button>
+            </form>
+        </div>
+    </section>
+</body>
+
+</html>

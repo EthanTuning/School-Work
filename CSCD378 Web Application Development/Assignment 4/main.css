@@ -1,0 +1,253 @@
+/**************** Base styles ****************/
+
+body {
+    background: url(assets/image.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: sans-serif;
+    color: floralwhite;
+}
+
+h2 {
+    display: inline-block;
+    padding: .2%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+h1 {
+    text-align: center;
+    padding: 5%;
+    padding-bottom: 10%;
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 3em;
+}
+
+#btn-container {
+    text-align: center;
+    margin: auto;
+    padding: 1em;
+}
+
+#new-btn,
+#refresh-btn {
+    padding: .8%;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin: auto;
+    text-align: center;
+    background-color: firebrick;
+    color: floralwhite;
+    font-size: 1.5em;
+    border: 2px solid floralwhite;
+    border-radius: 20px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+#new-btn:hover,
+#refresh-btn:hover {
+    background-color: transparent;
+}
+
+/**************** Table styles ****************/
+
+#data-table {
+    background: white;
+    border-radius: 10px;
+    border-collapse: collapse;
+    height: 100%;
+    margin: auto;
+    padding: 5px;
+    width: 90%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    animation: float 5s infinite;
+}
+
+.edit-btn,
+.delete-btn {
+    width: 100%;
+    background-color: firebrick;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    color: floralwhite;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.edit-btn:hover,
+.delete-btn:hover {
+    color: firebrick;
+    background-color: floralwhite;
+}
+
+th {
+    color: floralwhite;
+    background: firebrick;
+    border-bottom: none;
+    border-right: none;
+    font-size: 23px;
+    font-weight: 100;
+    padding: 24px;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    vertical-align: middle;
+}
+
+th:first-child {
+    border-top-left-radius: 3px;
+}
+
+th:last-child {
+    border-top-right-radius: 3px;
+    border-right: none;
+}
+
+tr {
+    border-top: 1px solid firebrick;
+    border-bottom-: none;
+    color: firebrick;
+    font-size: 16px;
+    font-weight: normal;
+    text-shadow: 0 1px 1px rgba(256, 256, 256, 0.1);
+}
+
+tr:hover td {
+    background: firebrick;
+    color: floralwhite;
+    border-top: none;
+}
+
+tr:first-child {
+    border-top: none;
+}
+
+tr:last-child {
+    border-bottom: none;
+}
+
+tr:nth-child(odd) td {
+    background: floralwhite;
+}
+
+tr:nth-child(odd):hover td {
+    background: firebrick;
+}
+
+tr:last-child td:first-child {
+    border-bottom-left-radius: 3px;
+}
+
+tr:last-child td:last-child {
+    border-bottom-right-radius: 3px;
+}
+
+td {
+    background: floralwhite;
+    padding: 20px;
+    text-align: left;
+    vertical-align: middle;
+    font-weight: 300;
+    font-size: 18px;
+    text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+    border-right: none;
+}
+
+td:last-child {
+    border-right: 0px;
+}
+
+th.text-left {
+    text-align: left;
+}
+
+th.text-center {
+    text-align: center;
+}
+
+th.text-right {
+    text-align: right;
+}
+
+td.text-left {
+    text-align: left;
+}
+
+td.text-center {
+    text-align: center;
+}
+
+td.text-right {
+    text-align: right;
+}
+
+/**************** Pop-up form styles ****************/
+
+#add-form-container,
+#update-form-container {
+    display: none;
+    border: none;
+    padding: 2em;
+    width: 300px;
+    text-align: center;
+    background: firebrick;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+#add-form-container input,
+#update-form-container input {
+    margin: .8em auto;
+    text-transform: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    display: block;
+    width: 280px;
+    padding: .4em;
+    border-radius: 10px;
+    border: none;
+}
+
+#add-ok,
+#update-ok {
+    color: firebrick;
+    width: 140px;
+    display: inline-block;
+    font-weight: 100;
+    font-size: 1.2em;
+    border: none;
+    height: 30px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border-radius: 10px;
+    background-color: floralwhite;
+}
+
+#add-ok:hover,
+#update-ok:hover {
+    color: floralwhite;
+    background-color: transparent;
+}
+
+#update-form-container input {
+    margin: .8em auto;
+    text-transform: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    display: block;
+    width: 280px;
+    padding: .4em;
+}
+
+#update-id {
+    visibility: hidden;
+}
