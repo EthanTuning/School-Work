@@ -1,0 +1,41 @@
+﻿<Window x:Class="Craps.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Craps"
+        mc:Ignorable="d"
+        Title="Craps" MinWidth="472.5" MinHeight="336.906" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" MaxWidth="472.5" MaxHeight="336.906" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="464">
+            <MenuItem HeaderStringFormat="" Header="Game">
+                <MenuItem x:Name="startBtn" Header="Start" Click="startBtn_Click"/>
+                <MenuItem x:Name="resetBtn" Header="Reset" Click="resetBtn_Click" IsEnabled="False"/>
+                <MenuItem x:Name="exitBtn" Header="Exit" Click="exitBtn_Click"/>
+            </MenuItem>
+            <MenuItem HeaderStringFormat="Help" Header="Help">
+                <MenuItem x:Name="aboutBtn" Header="About" Click="aboutBtn_Click"/>
+                <MenuItem x:Name="rulesBtn" Header="Rules" Click="rulesBtn_Click"/>
+            </MenuItem>
+        </Menu>
+        <GroupBox Header="Current Roll" HorizontalAlignment="Left" Height="136" Margin="20,30,0,0" VerticalAlignment="Top" Width="210"/>
+        <GroupBox Header="Win Totals" HorizontalAlignment="Left" Height="136" Margin="232,30,0,0" VerticalAlignment="Top" Width="208"/>
+        <Button x:Name="rollDiceBtn" Content="Roll Dice" HorizontalAlignment="Left" Margin="10,250,0,0" VerticalAlignment="Top" Width="220" Height="38" Click="rollDiceBtn_Click" IsEnabled="False"/>
+        <Button x:Name="playAgainBtn" Content="Play Again" HorizontalAlignment="Left" Margin="235,250,0,0" VerticalAlignment="Top" Width="219" RenderTransformOrigin="0.587,-1.688" Height="38" Click="playAgainBtn_Click" IsEnabled="False"/>
+        <TextBox x:Name="dieTwoText" HorizontalAlignment="Left" Height="24" Margin="80,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="dieOneText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="80,60,0,0" IsEnabled="False"/>
+        <TextBox x:Name="dieTotalText" HorizontalAlignment="Left" Height="24" Margin="80,117,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="playerWinsText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="300,60,0,0" IsEnabled="False"/>
+        <TextBox x:Name="houseWinsText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="300,88,0,0" IsEnabled="False"/>
+        <Label Content="House" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="251,85,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <Label Content="Total" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,115,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <Label Content="Die 2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,86,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <Label Content="Die 1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="37,57,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <Label Content="Player" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="253,57,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <TextBox x:Name="pointText" HorizontalAlignment="Left" Height="24" Margin="80,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label Content="Point" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="38,211,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <TextBox x:Name="bankText" HorizontalAlignment="Left" Height="24" Margin="300,213,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <Label Content="Bank" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="259,211,0,0" RenderTransformOrigin="0.763,0.462"/>
+        <Label x:Name="winnerText" Content="" HorizontalAlignment="Left" Margin="80,171,0,0" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+    </Grid>
+</Window>

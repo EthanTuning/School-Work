@@ -1,0 +1,14 @@
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\bin\Release\Craps.exe.config
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\bin\Release\Craps.exe
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\bin\Release\Craps.pdb
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\MainWindow.g.cs
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\App.g.cs
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps_MarkupCompile.cache
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps_MarkupCompile.lref
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\MainWindow.baml
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.g.resources
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.Properties.Resources.resources
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.csproj.GenerateResource.Cache
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.csproj.CoreCompileInputs.cache
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.exe
+D:\Dev Stuff\Visual Studio Projects\CSCD371 .NET Programming\Assignment 5\Craps\Craps\obj\Release\Craps.pdb
