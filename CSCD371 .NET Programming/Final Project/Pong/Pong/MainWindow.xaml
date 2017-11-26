@@ -1,0 +1,52 @@
+﻿<Window x:Name="MainWindow1" x:Class="Pong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pong"
+        mc:Ignorable="d"
+        Icon="icon.png"
+        Title="Pong" Height="724" Width="1352" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" KeyDown="Window_KeyDown">
+    <Grid x:Name="Scene" Margin="0,0,0,-1" Background="White">
+        <Menu x:Name="MainMenu" Height="38" VerticalAlignment="Top" Background="White">
+            <MenuItem x:Name="FileMenu" Header="File" Height="35" Width="40" FontSize="14" Background="White" BorderBrush="White">
+                <MenuItem x:Name="FileMenuQuitBtn" Header="Quit" Click="FileMenuQuitBtn_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="GameMenu" Header="Game" FontSize="14" Background="White" BorderBrush="White">
+                <MenuItem x:Name="NewMenuBtn" Header="New">
+                    <MenuItem x:Name="_1PlayerMenuBtn" Header="1 Player" Click="_1PlayerMenuBtn_Click"/>
+                    <MenuItem x:Name="_2PlayerMenuBtn" Header="2 Player" Click="_2PlayerMenuBtn_Click" />
+                </MenuItem>
+                <MenuItem x:Name="ResetMenuBtn" Header="Reset" Click="ResetMenuBtn_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="OptionsMenu" Header="Options" FontSize="14" Background="White" BorderBrush="White">
+                <MenuItem x:Name="ThemeMenuBtn" Header="Theme">
+                    <MenuItem x:Name="DefaultThemeBtn" Header="Default" Click="DefaultThemeBtn_Click"/>
+                    <MenuItem x:Name="InvertedThemeBtn" Header="Inverted" Click="InvertedThemeBtn_Click"/>
+                    <MenuItem x:Name="PurpleThemeBtn" Header="Purple" Click="PurpleThemeBtn_Click"/>
+                    <MenuItem x:Name="BlueThemeBtn" Header="Blue" Click="BlueThemeBtn_Click"/>
+                    <MenuItem x:Name="GreenThemeBtn" Header="Green" Click="GreenThemeBtn_Click"/>
+                </MenuItem>
+                <MenuItem x:Name="DifficultyMenuBtn" Header="Difficulty">
+                    <MenuItem x:Name="EasyMenuBtn" Header="Easy" Click="EasyMenuBtn_Click" />
+                    <MenuItem x:Name="MediumMenuBtn" Header="Medium" Click="MediumMenuBtn_Click" />
+                    <MenuItem x:Name="HardMenuBtn" Header="Hard" Click="HardMenuBtn_Click" />
+                </MenuItem>
+            </MenuItem>
+            <MenuItem x:Name="HelpMenu" Header="Help" FontSize="14" Background="White" BorderBrush="White">
+                <MenuItem x:Name="AboutMenuBtn" Header="About" Click="AboutMenuBtn_Click"/>
+                <MenuItem x:Name="RulesMenuBtn" Header="Rules" Click="RulesMenuBtn_Click"/>
+            </MenuItem>
+        </Menu>
+        <Canvas x:Name="GameBoard" HorizontalAlignment="Center" Height="512" Margin="0" VerticalAlignment="Center" Width="1024" Background="#FFAEAEAE">
+            <Rectangle x:Name="RightPaddle" Fill="White" Height="80" Canvas.Top="{Binding RightPaddle.Position}" Canvas.Left="994" Stroke="White" Width="20" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            <Rectangle x:Name="LeftPaddle" Fill="White" Height="80" Canvas.Top="{Binding LeftPaddle.Position}" Canvas.Left="10" Stroke="White" Width="20" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Ellipse x:Name="GameBall" Fill="White" Height="22" Canvas.Top="{Binding Ball.Y}" Canvas.Left="{Binding Ball.X}" Stroke="White" Width="22" />
+        </Canvas>
+        <Label x:Name="TitleLabel" Content="Pong" HorizontalAlignment="Center" Margin="610,18,610,0" VerticalAlignment="Top" FontSize="48" Width="126"/>
+        <Label x:Name="PlayerOneScoreLabel" Content="Player 1: " HorizontalAlignment="Left" Margin="161,48,0,0" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <Label x:Name="PlayerTwoScoreLabel" Content="Player 2: " HorizontalAlignment="Left" Margin="1033,48,0,0" VerticalAlignment="Top" Width="102" FontSize="22"/>
+        <Label x:Name="PlayerTwoScore" Content="{Binding Ball.RightScore}" HorizontalAlignment="Left" Margin="1140,48,0,0" VerticalAlignment="Top" Width="45" FontSize="22"/>
+        <Label x:Name="PlayerOneScore" Content="{Binding Ball.LeftScore}" HorizontalAlignment="Left" Margin="267,48,0,0" VerticalAlignment="Top" Width="45" FontSize="22"/>
+    </Grid>
+</Window>

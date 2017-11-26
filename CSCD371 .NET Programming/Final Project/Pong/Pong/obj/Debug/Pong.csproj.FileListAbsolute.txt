@@ -1,0 +1,15 @@
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\bin\Debug\Pong.exe.config
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\bin\Debug\Pong.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\bin\Debug\Pong.pdb
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\MainWindow.g.cs
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\App.g.cs
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\MainWindow.baml
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.g.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.exe
+E:\Dev Stuff\Visual Studio Projects\CSCD 371 .NET Programming\Final Project\Pong\Pong\obj\Debug\Pong.pdb
